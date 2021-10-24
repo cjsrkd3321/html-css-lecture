@@ -24,3 +24,5 @@
     - Files : associations -> add item -> \*.html, html
       - ![associations](./img/associations.png)
 - [Chrome Browser](https://www.google.co.kr/chrome/?brand=FKPE&gclid=CjwKCAjwwsmLBhACEiwANq-tXJmlGF5NPhXg47d-ceTn-jfPT5yqvWwQzKOlKs_TXVTUxADOYrjqlRoC7pMQAvD_BwE&gclsrc=aw.ds)
+  - [Page Ruler Redux](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal/related?hl=ko)
+  - [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=ko)
